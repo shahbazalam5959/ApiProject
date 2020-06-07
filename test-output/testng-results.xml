@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9550" started-at="2020-05-11T18:19:40Z" finished-at="2020-05-11T18:19:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9550" started-at="2020-05-11T18:19:40Z" finished-at="2020-05-11T18:19:50Z">
+      <class name="DataDrivenTest.TC001_DDT_AddNewEmployees">
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.TC001_DDT_AddNewEmployees@51efea79]" name="postNewEmployees" duration-ms="3309" started-at="2020-05-11T23:49:42Z" data-provider="empDataProvider" finished-at="2020-05-11T23:49:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KANE123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[50000.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[35.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.TC001_DDT_AddNewEmployees@51efea79]" name="postNewEmployees" duration-ms="1449" started-at="2020-05-11T23:49:45Z" data-provider="empDataProvider" finished-at="2020-05-11T23:49:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JOHNXYZ56]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[600000.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[43.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.TC001_DDT_AddNewEmployees@51efea79]" name="postNewEmployees" duration-ms="1270" started-at="2020-05-11T23:49:46Z" data-provider="empDataProvider" finished-at="2020-05-11T23:49:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RAWISI999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30030.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[22.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.TC001_DDT_AddNewEmployees@51efea79]" name="postNewEmployees" duration-ms="1076" started-at="2020-05-11T23:49:48Z" data-provider="empDataProvider" finished-at="2020-05-11T23:49:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NUSNAZT1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[33300.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[33.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+        <test-method status="PASS" signature="postNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DataDrivenTest.TC001_DDT_AddNewEmployees@51efea79]" name="postNewEmployees" duration-ms="1158" started-at="2020-05-11T23:49:49Z" data-provider="empDataProvider" finished-at="2020-05-11T23:49:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MDSHALAM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[444000.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[34.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployees -->
+      </class> <!-- DataDrivenTest.TC001_DDT_AddNewEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
